@@ -3,5 +3,5 @@
 @section('title', 'Home')
 
 @section('content')
-    <p>Hello World!</p>
+    <p>Home Page</p>
 @endsection
